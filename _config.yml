@@ -1,5 +1,5 @@
 # General Jekyll Config
-url: http://www.codeography.com
+url: https://csexton.com
 safe: true
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
@@ -8,6 +8,6 @@ kramdown:
   hard_wrap: false
 poole:
   default_layout: post
-gems:
+plugins:
   - jekyll-redirect-from
 excerpt_separator: <!--more-->

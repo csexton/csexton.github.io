@@ -1,6 +1,6 @@
-# Codeography
+# csexton.com
 
-This is the Jekyll source for codeography.com.
+This is the Jekyll source for [csexton.com](https://csexton.com), hosted on GitHub Pages from `csexton/csexton.github.io`.
 
 # Birdhouse in your soul
 
